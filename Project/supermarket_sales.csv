@@ -2,12 +2,12 @@ Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax
 750-67-8428,A,Yangon,Member,Female,Health and beauty,74.69,7,26.1415,548.9715,1/5/2019,13:08,Ewallet,522.83,4.761904762,26.1415,9.1
 226-31-3081,C,Naypyitaw,Normal,Female,Electronic accessories,15.28,5,3.82,80.22,3/8/2019,10:29,Cash,76.4,4.761904762,3.82,9.6
 631-41-3108,A,Yangon,Normal,Male,Home and lifestyle,46.33,7,16.2155,340.5255,3/3/2019,13:23,Credit card,324.31,4.761904762,16.2155,7.4
-123-19-1176,A,Yangon,Member,Male,Health and beauty,58.22,8,23.288,489.048,1/27/2019,20:33,Ewallet,465.76,4.761904762,23.288,8.4
-373-73-7910,A,Yangon,Normal,Male,Sports and travel,86.31,7,30.2085,634.3785,2/8/2019,10:37,Ewallet,604.17,4.761904762,30.2085,5.3
+123-19-1176,A,Yangon,Member,Male,,58.22,8,23.288,489.048,1/27/2019,20:33,Ewallet,465.76,4.761904762,23.288,8.4
+373-73-7910,A,,Normal,Male,Sports and travel,86.31,7,30.2085,634.3785,2/8/2019,10:37,Ewallet,604.17,4.761904762,30.2085,5.3
 699-14-3026,C,Naypyitaw,Normal,Male,Electronic accessories,85.39,7,29.8865,627.6165,3/25/2019,18:30,Ewallet,597.73,4.761904762,29.8865,4.1
 355-53-5943,A,Yangon,Member,Female,Electronic accessories,68.84,6,20.652,433.692,2/25/2019,14:36,Ewallet,413.04,4.761904762,20.652,5.8
 315-22-5665,C,Naypyitaw,Normal,Female,Home and lifestyle,73.56,10,36.78,772.38,2/24/2019,11:38,Ewallet,735.6,4.761904762,36.78,8
-665-32-9167,A,Yangon,Member,Female,Health and beauty,36.26,2,3.626,76.146,1/10/2019,17:15,Credit card,72.52,4.761904762,3.626,7.2
+665-32-9167,A,Yangon,Member,Female,Health and beauty,36.26,2,3.626,76.146,1/10/2019,17:15,Credit card,72.52,4.761904762,3.626,
 692-92-5582,B,Mandalay,Member,Female,Food and beverages,54.84,3,8.226,172.746,2/20/2019,13:27,Credit card,164.52,4.761904762,8.226,5.9
 351-62-0822,B,Mandalay,Member,Female,Fashion accessories,14.48,4,2.896,60.816,2/6/2019,18:07,Ewallet,57.92,4.761904762,2.896,4.5
 529-56-3974,B,Mandalay,Member,Male,Electronic accessories,25.51,4,5.102,107.142,3/9/2019,17:03,Cash,102.04,4.761904762,5.102,6.8
@@ -15,7 +15,7 @@ Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax
 252-56-2699,A,Yangon,Normal,Male,Food and beverages,43.19,10,21.595,453.495,2/7/2019,16:48,Ewallet,431.9,4.761904762,21.595,8.2
 829-34-3910,A,Yangon,Normal,Female,Health and beauty,71.38,10,35.69,749.49,3/29/2019,19:21,Cash,713.8,4.761904762,35.69,5.7
 299-46-1805,B,Mandalay,Member,Female,Sports and travel,93.72,6,28.116,590.436,1/15/2019,16:19,Cash,562.32,4.761904762,28.116,4.5
-656-95-9349,A,Yangon,Member,Female,Health and beauty,68.93,7,24.1255,506.6355,3/11/2019,11:03,Credit card,482.51,4.761904762,24.1255,4.6
+656-95-9349,A,Yangon,Member,Female,Health and beauty,68.93,7,24.1255,506.6355,3/11/2019,11:03,,482.51,4.761904762,24.1255,4.6
 765-26-6951,A,Yangon,Normal,Male,Sports and travel,72.61,6,21.783,457.443,1/1/2019,10:39,Credit card,435.66,4.761904762,21.783,6.9
 329-62-1586,A,Yangon,Normal,Male,Food and beverages,54.67,3,8.2005,172.2105,1/21/2019,18:00,Credit card,164.01,4.761904762,8.2005,8.6
 319-50-3348,B,Mandalay,Normal,Female,Home and lifestyle,40.3,2,4.03,84.63,3/11/2019,15:30,Ewallet,80.6,4.761904762,4.03,4.4
@@ -106,7 +106,7 @@ Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax
 716-39-1409,B,Mandalay,Normal,Male,Health and beauty,30.35,7,10.6225,223.0725,3/19/2019,18:19,Cash,212.45,4.761904762,10.6225,8
 704-48-3927,A,Yangon,Member,Male,Electronic accessories,88.67,10,44.335,931.035,1/12/2019,14:50,Ewallet,886.7,4.761904762,44.335,7.3
 628-34-3388,C,Naypyitaw,Normal,Male,Fashion accessories,27.38,6,8.214,172.494,1/5/2019,20:54,Credit card,164.28,4.761904762,8.214,7.9
-630-74-5166,A,Yangon,Normal,Male,Sports and travel,62.13,6,18.639,391.419,3/22/2019,20:19,Cash,372.78,4.761904762,18.639,7.4
+630-74-5166,A,,Normal,Male,Sports and travel,62.13,6,18.639,391.419,3/22/2019,20:19,Cash,372.78,4.761904762,18.639,7.4
 588-01-7461,C,Naypyitaw,Normal,Female,Food and beverages,33.98,9,15.291,321.111,3/24/2019,10:43,Cash,305.82,4.761904762,15.291,4.2
 861-77-0145,C,Naypyitaw,Member,Male,Electronic accessories,81.97,10,40.985,860.685,3/3/2019,14:30,Cash,819.7,4.761904762,40.985,9.2
 479-26-8945,B,Mandalay,Member,Female,Sports and travel,16.49,2,1.649,34.629,2/5/2019,11:32,Ewallet,32.98,4.761904762,1.649,4.6
@@ -128,7 +128,7 @@ Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax
 870-54-3162,A,Yangon,Normal,Female,Sports and travel,32.25,5,8.0625,169.3125,1/27/2019,13:26,Cash,161.25,4.761904762,8.0625,9
 189-08-9157,C,Naypyitaw,Normal,Female,Fashion accessories,31.73,9,14.2785,299.8485,1/8/2019,16:17,Credit card,285.57,4.761904762,14.2785,5.9
 663-86-9076,C,Naypyitaw,Member,Female,Food and beverages,68.54,8,27.416,575.736,1/8/2019,15:57,Ewallet,548.32,4.761904762,27.416,8.5
-549-84-7482,B,Mandalay,Normal,Female,Sports and travel,90.28,9,40.626,853.146,2/8/2019,11:15,Ewallet,812.52,4.761904762,40.626,7.2
+549-84-7482,B,Mandalay,Normal,Female,Sports and travel,90.28,9,40.626,853.146,2/8/2019,11:15,Ewallet,812.52,4.761904762,40.626,
 191-10-6171,B,Mandalay,Normal,Female,Fashion accessories,39.62,7,13.867,291.207,1/25/2019,13:18,Cash,277.34,4.761904762,13.867,7.5
 802-70-5316,A,Yangon,Member,Female,Sports and travel,92.13,6,27.639,580.419,3/6/2019,20:34,Cash,552.78,4.761904762,27.639,8.3
 695-51-0018,B,Mandalay,Normal,Female,Sports and travel,34.84,4,6.968,146.328,2/10/2019,18:36,Cash,139.36,4.761904762,6.968,7.4
@@ -165,8 +165,8 @@ Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax
 423-80-0988,C,Naypyitaw,Normal,Male,Sports and travel,76.4,2,7.64,160.44,1/30/2019,19:42,Ewallet,152.8,4.761904762,7.64,6.5
 548-46-9322,B,Mandalay,Normal,Male,Food and beverages,39.9,10,19.95,418.95,2/20/2019,15:24,Credit card,399,4.761904762,19.95,5.9
 505-02-0892,B,Mandalay,Member,Male,Health and beauty,42.57,8,17.028,357.588,2/25/2019,14:12,Ewallet,340.56,4.761904762,17.028,5.6
-234-65-2137,C,Naypyitaw,Normal,Male,Home and lifestyle,95.58,10,47.79,1003.59,1/16/2019,13:32,Cash,955.8,4.761904762,47.79,4.8
-687-47-8271,A,Yangon,Normal,Male,Fashion accessories,98.98,10,49.49,1039.29,2/8/2019,16:20,Credit card,989.8,4.761904762,49.49,8.7
+234-65-2137,C,Naypyitaw,Normal,Male,Home and lifestyle,95.58,10,47.79,"1,003.59",1/16/2019,13:32,Cash,955.8,4.761904762,47.79,4.8
+687-47-8271,A,Yangon,Normal,Male,Fashion accessories,98.98,10,49.49,"1,039.29",2/8/2019,16:20,Credit card,989.8,4.761904762,49.49,8.7
 796-32-9050,A,Yangon,Normal,Male,Food and beverages,51.28,6,15.384,323.064,1/19/2019,16:31,Cash,307.68,4.761904762,15.384,6.5
 105-31-1824,A,Yangon,Member,Male,Sports and travel,69.52,7,24.332,510.972,2/1/2019,15:10,Credit card,486.64,4.761904762,24.332,8.5
 249-42-3782,A,Yangon,Normal,Male,Health and beauty,70.01,5,17.5025,367.5525,1/3/2019,11:36,Ewallet,350.05,4.761904762,17.5025,5.5
@@ -188,7 +188,7 @@ Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax
 305-14-0245,B,Mandalay,Member,Female,Home and lifestyle,94.49,8,37.796,793.716,3/3/2019,19:00,Ewallet,755.92,4.761904762,37.796,7.5
 732-04-5373,B,Mandalay,Member,Male,Home and lifestyle,46.47,4,9.294,195.174,2/8/2019,10:53,Cash,185.88,4.761904762,9.294,7
 400-60-7251,A,Yangon,Normal,Male,Home and lifestyle,74.07,1,3.7035,77.7735,2/10/2019,12:50,Ewallet,74.07,4.761904762,3.7035,9.9
-593-65-1552,C,Naypyitaw,Normal,Female,Home and lifestyle,69.81,4,13.962,293.202,1/28/2019,20:50,Credit card,279.24,4.761904762,13.962,5.9
+593-65-1552,C,,Normal,Female,Home and lifestyle,69.81,4,13.962,293.202,1/28/2019,20:50,Credit card,279.24,4.761904762,13.962,5.9
 284-34-9626,B,Mandalay,Normal,Female,Home and lifestyle,77.04,3,11.556,242.676,2/11/2019,10:39,Credit card,231.12,4.761904762,11.556,7.2
 437-58-8131,B,Mandalay,Normal,Female,Fashion accessories,73.52,2,7.352,154.392,1/15/2019,13:41,Ewallet,147.04,4.761904762,7.352,4.6
 286-43-6208,C,Naypyitaw,Normal,Female,Food and beverages,87.8,9,39.51,829.71,3/16/2019,19:08,Cash,790.2,4.761904762,39.51,9.2
@@ -242,7 +242,7 @@ Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax
 540-11-4336,A,Yangon,Normal,Male,Food and beverages,24.94,9,11.223,235.683,1/11/2019,16:49,Credit card,224.46,4.761904762,11.223,5.6
 448-81-5016,A,Yangon,Normal,Male,Health and beauty,59.77,2,5.977,125.517,3/11/2019,12:01,Credit card,119.54,4.761904762,5.977,5.8
 142-72-4741,C,Naypyitaw,Member,Male,Fashion accessories,93.2,2,9.32,195.72,2/28/2019,18:37,Credit card,186.4,4.761904762,9.32,6
-217-58-1179,A,Yangon,Member,Male,Home and lifestyle,62.65,4,12.53,263.13,1/5/2019,11:25,Cash,250.6,4.761904762,12.53,4.2
+217-58-1179,A,Yangon,Member,Male,,62.65,4,12.53,263.13,1/5/2019,11:25,Cash,250.6,4.761904762,12.53,4.2
 376-02-8238,B,Mandalay,Normal,Male,Home and lifestyle,93.87,8,37.548,788.508,2/2/2019,18:42,Credit card,750.96,4.761904762,37.548,8.3
 530-90-9855,A,Yangon,Member,Male,Home and lifestyle,47.59,8,19.036,399.756,1/1/2019,14:47,Cash,380.72,4.761904762,19.036,5.7
 866-05-7563,B,Mandalay,Member,Female,Electronic accessories,81.4,3,12.21,256.41,2/9/2019,19:43,Cash,244.2,4.761904762,12.21,4.8
@@ -286,7 +286,7 @@ Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax
 565-17-3836,A,Yangon,Member,Female,Health and beauty,47.67,4,9.534,200.214,3/12/2019,14:21,Cash,190.68,4.761904762,9.534,9.1
 498-41-1961,B,Mandalay,Normal,Male,Health and beauty,66.68,5,16.67,350.07,2/20/2019,18:01,Cash,333.4,4.761904762,16.67,7.6
 593-95-4461,C,Naypyitaw,Member,Male,Home and lifestyle,74.86,1,3.743,78.603,3/24/2019,14:49,Cash,74.86,4.761904762,3.743,6.9
-226-71-3580,C,Naypyitaw,Normal,Female,Sports and travel,23.75,9,10.6875,224.4375,1/31/2019,12:02,Cash,213.75,4.761904762,10.6875,9.5
+226-71-3580,C,Naypyitaw,Normal,Female,Sports and travel,23.75,9,10.6875,224.4375,1/31/2019,12:02,Cash,213.75,4.761904762,10.6875,
 283-79-9594,B,Mandalay,Normal,Female,Food and beverages,48.51,7,16.9785,356.5485,1/25/2019,13:30,Credit card,339.57,4.761904762,16.9785,5.2
 430-60-3493,A,Yangon,Member,Female,Home and lifestyle,94.88,7,33.208,697.368,2/3/2019,14:38,Cash,664.16,4.761904762,33.208,4.2
 139-20-0155,B,Mandalay,Member,Male,Electronic accessories,40.3,10,20.15,423.15,1/24/2019,17:37,Credit card,403,4.761904762,20.15,7
@@ -318,7 +318,7 @@ Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax
 428-83-5800,C,Naypyitaw,Member,Female,Food and beverages,21.08,3,3.162,66.402,2/9/2019,10:25,Cash,63.24,4.761904762,3.162,7.3
 603-07-0961,C,Naypyitaw,Member,Male,Electronic accessories,74.79,5,18.6975,392.6475,1/10/2019,11:34,Cash,373.95,4.761904762,18.6975,4.9
 704-20-4138,C,Naypyitaw,Member,Female,Health and beauty,29.67,7,10.3845,218.0745,3/11/2019,18:58,Credit card,207.69,4.761904762,10.3845,8.1
-787-15-1757,C,Naypyitaw,Member,Male,Health and beauty,44.07,4,8.814,185.094,2/18/2019,16:28,Ewallet,176.28,4.761904762,8.814,8.4
+787-15-1757,C,,Member,Male,Health and beauty,44.07,4,8.814,185.094,2/18/2019,16:28,Ewallet,176.28,4.761904762,8.814,8.4
 649-11-3678,C,Naypyitaw,Normal,Female,Food and beverages,22.93,9,10.3185,216.6885,2/26/2019,20:26,Cash,206.37,4.761904762,10.3185,5.5
 622-20-1945,C,Naypyitaw,Normal,Female,Health and beauty,39.42,1,1.971,41.391,1/18/2019,15:08,Cash,39.42,4.761904762,1.971,8.4
 372-94-8041,A,Yangon,Normal,Male,Health and beauty,15.26,6,4.578,96.138,2/15/2019,18:03,Ewallet,91.56,4.761904762,4.578,9.8
@@ -415,7 +415,7 @@ Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax
 696-90-2548,A,Yangon,Normal,Male,Sports and travel,25.84,3,3.876,81.396,3/10/2019,18:55,Ewallet,77.52,4.761904762,3.876,6.6
 472-15-9636,A,Yangon,Normal,Male,Home and lifestyle,50.93,8,20.372,427.812,3/22/2019,19:36,Ewallet,407.44,4.761904762,20.372,9.2
 268-03-6164,B,Mandalay,Normal,Male,Health and beauty,96.11,1,4.8055,100.9155,1/25/2019,16:28,Ewallet,96.11,4.761904762,4.8055,7.8
-750-57-9686,C,Naypyitaw,Normal,Female,Home and lifestyle,45.38,4,9.076,190.596,1/8/2019,13:48,Credit card,181.52,4.761904762,9.076,8.7
+750-57-9686,C,Naypyitaw,Normal,Female,,45.38,4,9.076,190.596,1/8/2019,13:48,Credit card,181.52,4.761904762,9.076,8.7
 186-09-3669,C,Naypyitaw,Member,Female,Health and beauty,81.51,1,4.0755,85.5855,1/22/2019,10:57,Ewallet,81.51,4.761904762,4.0755,9.2
 848-07-1692,B,Mandalay,Normal,Female,Health and beauty,57.22,2,5.722,120.162,1/12/2019,17:13,Ewallet,114.44,4.761904762,5.722,8.3
 745-71-3520,A,Yangon,Member,Female,Electronic accessories,25.22,7,8.827,185.367,2/4/2019,10:23,Cash,176.54,4.761904762,8.827,8.2
@@ -504,7 +504,7 @@ Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax
 620-02-2046,C,Naypyitaw,Normal,Male,Home and lifestyle,69.4,2,6.94,145.74,1/27/2019,19:48,Ewallet,138.8,4.761904762,6.94,9
 282-35-2475,B,Mandalay,Normal,Female,Sports and travel,93.31,2,9.331,195.951,3/25/2019,17:53,Cash,186.62,4.761904762,9.331,6.3
 511-54-3087,B,Mandalay,Normal,Male,Sports and travel,88.45,1,4.4225,92.8725,2/25/2019,16:36,Credit card,88.45,4.761904762,4.4225,9.5
-726-29-6793,A,Yangon,Member,Male,Electronic accessories,24.18,8,9.672,203.112,1/28/2019,20:54,Ewallet,193.44,4.761904762,9.672,9.8
+726-29-6793,A,Yangon,Member,Male,Electronic accessories,24.18,8,9.672,203.112,1/28/2019,20:54,Ewallet,193.44,4.761904762,9.672,
 387-49-4215,B,Mandalay,Member,Female,Sports and travel,48.5,3,7.275,152.775,1/8/2019,12:50,Cash,145.5,4.761904762,7.275,6.7
 862-17-9201,B,Mandalay,Normal,Female,Food and beverages,84.05,6,25.215,529.515,1/29/2019,10:48,Credit card,504.3,4.761904762,25.215,7.7
 291-21-5991,B,Mandalay,Member,Male,Health and beauty,61.29,5,15.3225,321.7725,3/29/2019,14:28,Cash,306.45,4.761904762,15.3225,7
@@ -566,7 +566,7 @@ Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax
 514-37-2845,B,Mandalay,Normal,Male,Fashion accessories,99.25,2,9.925,208.425,3/20/2019,13:02,Cash,198.5,4.761904762,9.925,9
 698-98-5964,A,Yangon,Normal,Female,Food and beverages,81.21,10,40.605,852.705,1/17/2019,13:01,Credit card,812.1,4.761904762,40.605,6.3
 718-57-9773,C,Naypyitaw,Normal,Female,Sports and travel,49.33,10,24.665,517.965,2/3/2019,16:40,Credit card,493.3,4.761904762,24.665,9.4
-651-88-7328,A,Yangon,Normal,Female,Fashion accessories,65.74,9,29.583,621.243,1/1/2019,13:55,Cash,591.66,4.761904762,29.583,7.7
+651-88-7328,A,Yangon,Normal,Female,Fashion accessories,65.74,9,29.583,621.243,1/1/2019,13:55,,591.66,4.761904762,29.583,7.7
 241-11-2261,B,Mandalay,Normal,Female,Fashion accessories,79.86,7,27.951,586.971,1/10/2019,10:33,Credit card,559.02,4.761904762,27.951,5.5
 408-26-9866,C,Naypyitaw,Normal,Female,Sports and travel,73.98,7,25.893,543.753,3/2/2019,16:42,Ewallet,517.86,4.761904762,25.893,4.1
 834-83-1826,B,Mandalay,Member,Female,Home and lifestyle,82.04,5,20.51,430.71,2/25/2019,17:16,Credit card,410.2,4.761904762,20.51,7.6
@@ -729,7 +729,7 @@ Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax
 174-64-0215,B,Mandalay,Normal,Male,Sports and travel,69.74,10,34.87,732.27,3/5/2019,17:49,Credit card,697.4,4.761904762,34.87,8.9
 210-74-9613,C,Naypyitaw,Normal,Male,Fashion accessories,97.26,4,19.452,408.492,3/16/2019,15:33,Ewallet,389.04,4.761904762,19.452,6.8
 299-29-0180,B,Mandalay,Member,Female,Home and lifestyle,52.18,7,18.263,383.523,3/9/2019,10:54,Cash,365.26,4.761904762,18.263,9.3
-247-11-2470,A,Yangon,Member,Female,Fashion accessories,22.32,4,4.464,93.744,3/1/2019,16:23,Credit card,89.28,4.761904762,4.464,4.4
+247-11-2470,A,Yangon,Member,Female,Fashion accessories,22.32,4,4.464,93.744,3/1/2019,16:23,Credit card,89.28,4.761904762,4.464,
 635-28-5728,A,Yangon,Normal,Male,Health and beauty,56,3,8.4,176.4,2/28/2019,19:33,Ewallet,168,4.761904762,8.4,4.8
 756-49-0168,A,Yangon,Member,Male,Fashion accessories,19.7,1,0.985,20.685,2/8/2019,11:39,Ewallet,19.7,4.761904762,0.985,9.5
 438-23-1242,B,Mandalay,Normal,Male,Electronic accessories,75.88,7,26.558,557.718,1/24/2019,10:38,Ewallet,531.16,4.761904762,26.558,8.9
@@ -904,7 +904,7 @@ Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax
 595-94-9924,A,Yangon,Member,Female,Health and beauty,27.73,5,6.9325,145.5825,3/26/2019,20:21,Credit card,138.65,4.761904762,6.9325,4.2
 865-41-9075,A,Yangon,Normal,Male,Food and beverages,11.53,7,4.0355,84.7455,1/28/2019,17:35,Cash,80.71,4.761904762,4.0355,8.1
 545-07-8534,C,Naypyitaw,Normal,Female,Health and beauty,58.32,2,5.832,122.472,2/14/2019,12:42,Ewallet,116.64,4.761904762,5.832,6
-118-62-1812,C,Naypyitaw,Member,Female,Home and lifestyle,78.38,4,15.676,329.196,3/24/2019,17:56,Cash,313.52,4.761904762,15.676,7.9
+118-62-1812,C,Naypyitaw,Member,Female,Home and lifestyle,78.38,4,15.676,329.196,3/24/2019,17:56,Cash,313.52,4.761904762,15.676,
 450-42-3339,C,Naypyitaw,Normal,Male,Health and beauty,84.61,10,42.305,888.405,2/9/2019,18:58,Credit card,846.1,4.761904762,42.305,8.8
 851-98-3555,B,Mandalay,Normal,Female,Health and beauty,82.88,5,20.72,435.12,3/24/2019,14:08,Credit card,414.4,4.761904762,20.72,6.6
 186-71-5196,A,Yangon,Member,Female,Food and beverages,79.54,2,7.954,167.034,3/27/2019,16:30,Ewallet,159.08,4.761904762,7.954,6.2
@@ -926,7 +926,7 @@ Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax
 457-12-0244,C,Naypyitaw,Member,Female,Sports and travel,35.22,6,10.566,221.886,3/14/2019,13:49,Ewallet,211.32,4.761904762,10.566,6.5
 226-34-0034,B,Mandalay,Normal,Female,Electronic accessories,13.78,4,2.756,57.876,1/10/2019,11:10,Ewallet,55.12,4.761904762,2.756,9
 321-49-7382,B,Mandalay,Member,Male,Sports and travel,88.31,1,4.4155,92.7255,2/15/2019,17:38,Credit card,88.31,4.761904762,4.4155,5.2
-397-25-8725,A,Yangon,Member,Female,Health and beauty,39.62,9,17.829,374.409,1/13/2019,17:54,Credit card,356.58,4.761904762,17.829,6.8
+397-25-8725,A,Yangon,Member,Female,Health and beauty,39.62,9,17.829,374.409,1/13/2019,17:54,,356.58,4.761904762,17.829,6.8
 431-66-2305,B,Mandalay,Normal,Female,Electronic accessories,88.25,9,39.7125,833.9625,2/15/2019,20:51,Credit card,794.25,4.761904762,39.7125,7.6
 825-94-5922,B,Mandalay,Normal,Male,Sports and travel,25.31,2,2.531,53.151,3/2/2019,19:26,Ewallet,50.62,4.761904762,2.531,7.2
 641-62-7288,B,Mandalay,Normal,Male,Home and lifestyle,99.92,6,29.976,629.496,3/24/2019,13:33,Ewallet,599.52,4.761904762,29.976,7.1
@@ -969,7 +969,7 @@ Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax
 195-06-0432,A,Yangon,Member,Male,Home and lifestyle,81.01,3,12.1515,255.1815,1/13/2019,12:55,Credit card,243.03,4.761904762,12.1515,9.3
 605-03-2706,A,Yangon,Normal,Female,Health and beauty,15.8,3,2.37,49.77,3/25/2019,18:02,Cash,47.4,4.761904762,2.37,9.5
 214-30-2776,B,Mandalay,Member,Female,Electronic accessories,34.49,5,8.6225,181.0725,3/11/2019,19:44,Credit card,172.45,4.761904762,8.6225,9
-746-04-1077,B,Mandalay,Member,Female,Food and beverages,84.63,10,42.315,888.615,1/1/2019,11:36,Credit card,846.3,4.761904762,42.315,9
+746-04-1077,B,Mandalay,Member,Female,Food and beverages,84.63,10,42.315,888.615,1/1/2019,11:36,,846.3,4.761904762,42.315,9
 448-34-8700,B,Mandalay,Member,Male,Home and lifestyle,36.91,7,12.9185,271.2885,2/10/2019,13:51,Ewallet,258.37,4.761904762,12.9185,6.7
 452-04-8808,B,Mandalay,Normal,Male,Electronic accessories,87.08,7,30.478,640.038,1/26/2019,15:17,Cash,609.56,4.761904762,30.478,5.5
 531-56-4728,A,Yangon,Normal,Male,Home and lifestyle,80.08,3,12.012,252.252,2/11/2019,15:29,Cash,240.24,4.761904762,12.012,5.4
@@ -989,13 +989,13 @@ Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax
 552-44-5977,B,Mandalay,Member,Male,Health and beauty,62,8,24.8,520.8,1/3/2019,19:08,Credit card,496,4.761904762,24.8,6.2
 267-62-7380,C,Naypyitaw,Member,Male,Electronic accessories,82.34,10,41.17,864.57,3/29/2019,19:12,Ewallet,823.4,4.761904762,41.17,4.3
 430-53-4718,B,Mandalay,Member,Male,Health and beauty,75.37,8,30.148,633.108,1/28/2019,15:46,Credit card,602.96,4.761904762,30.148,8.4
-886-18-2897,A,Yangon,Normal,Female,Food and beverages,56.56,5,14.14,296.94,3/22/2019,19:06,Credit card,282.8,4.761904762,14.14,4.5
+886-18-2897,A,Yangon,Normal,Female,,56.56,5,14.14,296.94,3/22/2019,19:06,Credit card,282.8,4.761904762,14.14,4.5
 602-16-6955,B,Mandalay,Normal,Female,Sports and travel,76.6,10,38.3,804.3,1/24/2019,18:10,Ewallet,766,4.761904762,38.3,6
-745-74-0715,A,Yangon,Normal,Male,Electronic accessories,58.03,2,5.803,121.863,3/10/2019,20:46,Ewallet,116.06,4.761904762,5.803,8.8
+745-74-0715,A,Yangon,Normal,Male,Electronic accessories,58.03,2,5.803,121.863,3/10/2019,20:46,Ewallet,116.06,4.761904762,5.803,
 690-01-6631,B,Mandalay,Normal,Male,Fashion accessories,17.49,10,8.745,183.645,2/22/2019,18:35,Ewallet,174.9,4.761904762,8.745,6.6
 652-49-6720,C,Naypyitaw,Member,Female,Electronic accessories,60.95,1,3.0475,63.9975,2/18/2019,11:40,Ewallet,60.95,4.761904762,3.0475,5.9
 233-67-5758,C,Naypyitaw,Normal,Male,Health and beauty,40.35,1,2.0175,42.3675,1/29/2019,13:46,Ewallet,40.35,4.761904762,2.0175,6.2
-303-96-2227,B,Mandalay,Normal,Female,Home and lifestyle,97.38,10,48.69,1022.49,3/2/2019,17:16,Ewallet,973.8,4.761904762,48.69,4.4
+303-96-2227,B,Mandalay,Normal,Female,Home and lifestyle,97.38,10,48.69,1022.49,3/2/2019,17:16,,973.8,4.761904762,48.69,4.4
 727-02-1313,A,Yangon,Member,Male,Food and beverages,31.84,1,1.592,33.432,2/9/2019,13:22,Cash,31.84,4.761904762,1.592,7.7
-347-56-2442,A,Yangon,Normal,Male,Home and lifestyle,65.82,1,3.291,69.111,2/22/2019,15:33,Cash,65.82,4.761904762,3.291,4.1
+347-56-2442,A,Yangon,Normal,Male,Home and lifestyle,65.82,1,3.291,69.111,2/22/2019,15:33,,65.82,4.761904762,3.291,4.1
 849-09-3807,A,Yangon,Member,Female,Fashion accessories,88.34,7,30.919,649.299,2/18/2019,13:28,Cash,618.38,4.761904762,30.919,6.6
